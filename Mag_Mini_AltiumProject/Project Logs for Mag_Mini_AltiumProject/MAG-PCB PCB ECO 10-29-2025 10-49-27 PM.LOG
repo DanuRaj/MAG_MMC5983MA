@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=CR1-1
+Removed Pin From Net: NetName=GND Pin=CR1-2
+Removed Member From Class: ClassName=MMC-MAG Member=CR1
+Added Component: Designator=U?(SOD-523_0P9X1P3_ONS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESD5Z5.0T1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Member To Class: ClassName=MMC-MAG Member=Component U? ESD5Z5.0T1G
