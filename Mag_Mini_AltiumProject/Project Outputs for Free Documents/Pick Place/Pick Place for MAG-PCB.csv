@@ -1,0 +1,25 @@
+Altium Designer Pick and Place Locations
+E:\QRBOTS\PCB Projects\Mag_Mini_Only\Mag_Mini_AltiumProject\Project Outputs for Free Documents\Pick Place\Pick Place for MAG-PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/10/25
+Time:       12:25
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U4","ESD5Z5.0T1G","TopLayer","SOD-523_0P9X1P3_ONS","275.591","846.457","90","TVS DIODE 5VWM 18.6VC SOD523"
+"U3","ESD7L5.0DT5G","TopLayer","SOT-723_0P85X1P25_ONS","295.000","725.000","90","TVS DIODE 5VWM 10.4VC SOT723"
+"U2","MMC5983MA","TopLayer","MMC5983MA_MEM","530.157","664.567","90","3-AXIS MAGNETIC SENSOR"
+"U1","AP2125N-3.3TRG1","TopLayer","SOT-23_DIO","531.102","880.000","0","IC REG LINEAR 3.3V 300MA SOT23-3"
+"R2","10K","TopLayer","RES_0402_1005","424.685","677.638","270","Res Thick Film 0402 10K Ohm 5% 0.063W(1/16W) �100ppm/C Pad SMD T/R"
+"R1","10K","TopLayer","RES_0402_1005","485.000","548.268","270","Res Thick Film 0402 10K Ohm 5% 0.063W(1/16W) �100ppm/C Pad SMD T/R"
+"J1","SM04B-GHS-TB","TopLayer","JST_SM04B-GHS-TB(LF)(SN)-","125.000","728.346","270","Connector Header Surface Mount, Right Angle 4 position 0.049 (1.25mm)"
+"C5","10uF","TopLayer","CAP0402","557.008","765.000","180","Ceramic Capacitor, Ceramic, 10V, 20% +Tol, 20% -Tol, X5R, 15% TC, 10uF, Surface Mount, 0402"
+"C4","100nF","TopLayer","CAP0402","580.000","547.992","90","Ceramic Capacitor, Ceramic, 10V, 10% +Tol, 10% -Tol, X5R, 15% TC, 0.1uF, Surface Mount, 0402"
+"C3","1uF","TopLayer","CAP0402","535.000","547.992","90","1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"
+"C2","1uF","TopLayer","CAP0402","630.000","857.008","270","1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"
+"C1","1uF","TopLayer","CAP0402","435.000","857.008","90","1 µF ±10% 25V Ceramic Capacitor X5R 0402 (1005 Metric)"
